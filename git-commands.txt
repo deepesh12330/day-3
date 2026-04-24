@@ -23,3 +23,6 @@ git push origin -D delet branch name for this is use github delet
   18 git push origin master
 
   I AM CHANGE LOCAL AND I WANT TO THIS CHAGE MY GITHUB
+
+
+i am change gihub and i want to this change local

@@ -21,3 +21,5 @@ git push origin -D delet branch name for this is use github delet
   16 git remote set-url origin https://deepesh12330/day-3.git
   17 git remote -v
   18 git push origin master
+
+  I AM CHANGE LOCAL AND I WANT TO THIS CHAGE MY GITHUB

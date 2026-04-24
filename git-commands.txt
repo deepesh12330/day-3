@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m "added"
+git status
+git push origin master
+git pull origin master
+git remote -v
+git remote remove origin
+git remote set-url origin https://
+git branch
+git branch name
+git switch branch
+git log
+git log --oneline
+git branch - D branch  name for this use delet local
+git push origin -D delet branch name for this is use github delet

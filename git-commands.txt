@@ -14,3 +14,10 @@ git log
 git log --oneline
 git branch - D branch  name for this use delet local
 git push origin -D delet branch name for this is use github delet
+
+
+ git remote add origin https://github.com/deepesh12330/day-3.git
+  15 git remote -v
+  16 git remote set-url origin https://deepesh12330/day-3.git
+  17 git remote -v
+  18 git push origin master
